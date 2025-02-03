@@ -57,13 +57,7 @@ Chart:
 ```
 ---
 
-## Getting Started
-
-1. Run stockfetch \<ticker\> to fetch data for any stock.
-2. Customise your experience with command-line options.
-
----
-
-## Contribute
-
-I am not currently accepting contributions, as this project is being used as portfolio work. I may be open to contributions in the future.
+## To Do
+- [ ] Get and display current price
+- [ ] Get and display historical averages
+- [ ] Populate chart with historical price data
